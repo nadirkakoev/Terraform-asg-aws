@@ -1,6 +1,6 @@
 Auto-Scaling Group and a Launch configuration AND  Elastic Load Balancer. Below are variables that need to be altered prior to use!!!
 
-module "asg" {
+module "wordpress-oregon" {
 
 source  = "nadirkakoev/asg/aws"
 
