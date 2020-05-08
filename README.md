@@ -6,7 +6,7 @@ source = "./module"
 
 region = "us-west-2"
 
-image_owner = "137112412989"
+image_owner = "137112412989".              //AWS AMI
 
 desired_capacity = 1
 
