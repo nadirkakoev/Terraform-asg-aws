@@ -2,7 +2,7 @@ Auto-Scaling Group and a Launch configuration AND  Elastic Load Balancer. Below 
 
 module "wordpress-oregon" {
 
-source  = "nadirkakoev/asg/aws"
+source  = "nadirkakoev/aws/asg"
 
 region = "us-west-2"
 
