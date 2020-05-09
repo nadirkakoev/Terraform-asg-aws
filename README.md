@@ -16,4 +16,3 @@ min_size = 1
 
 }
 
-![image](https://user-images.githubusercontent.com/63379676/81458188-bc47d900-915e-11ea-9639-57fb24899166.png)
